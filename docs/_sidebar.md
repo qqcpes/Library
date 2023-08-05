@@ -4,7 +4,6 @@
 - [**Home**](/README)
 - **Info**
   - [Accounts](/info/accounts.md)
-  - [Documents](/info/documents.md)
   - [Images & Videos](/info/images-videos.md)
 
 - **How To**
