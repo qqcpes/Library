@@ -104,7 +104,7 @@ Campus
 Photos:
 {Stick to 3-4 photos}
 ```
-> Attach the photos as jpegs as well in the email you send.
+> Attach the photos as jpegs as well in the email you send. Find the template [here](./resources/documents.md)
 
 
 ### Step 6 - Reimbursements and prize money 
