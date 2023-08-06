@@ -6,5 +6,5 @@
 
 [Let's Go](index.md)
 
-<p><img data-origin="linear-gradient(to left bottom, #fffb12 0%, #faf207 100%)" alt="color"></p>
+<p><img data-origin="linear-gradient(to left bottom, #fff912 0%, #f7db16 100%)" alt="color"></p>
 

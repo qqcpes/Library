@@ -1,4 +1,4 @@
-### Some old instructions I found on PESU website
+## Some old instructions I found on PESU website
 
 Website: https://clubs.pes.edu 
 
