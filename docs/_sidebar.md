@@ -13,7 +13,7 @@
   - [Go to an external event](/howto/external_events.md)
   - [Get tshirts and merch](/howto/get_merch.md)
   - [Print stuff](/howto/print.md)
-  
+  - [Edit this site](/howto/edit.md)
 - **Resources**
   - [Logos](/resources/resources.md)
   - [Documents](/resources/documents.md)
@@ -22,4 +22,7 @@
 - **Legacy**
   - [Presidents](/legacy/presidents.md)
   - [Members](/legacy/members.md)
+
+- **Quiz Links**
+  - [India Quiz (21 Aug '23)](/quiz_links/india_quiz.md)
 

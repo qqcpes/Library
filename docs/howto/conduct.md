@@ -48,7 +48,15 @@ Don't even bother, nobody ever cares about this
 ```
 
 ### Step 3 - Booking the venue
-I will put up the needed info later
+Another new procedure introduced around 2022, we now rely on Qudify for booking anything bar MRD and Pesu-52. 
+
+The procedure is as follows :
+
+>Go to [THIS](http://qudify.co/employee-access-view) link.
+- Username : qqc@pes.edu 
+- Password : OTP system, you will get it in the qqc email
+
+Note : Ground floor seminar hall is hall 1, the basement one is considered a classroom, so ask the CSE office if you need that
 
 ### Step 4 - App Notification
 This is a new step that was introduced in 2020. You need to send a notification to the app team to get your event listed on the PESU app. The format is as follows :
