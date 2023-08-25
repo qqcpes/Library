@@ -61,7 +61,7 @@ Note : Ground floor seminar hall is hall 1, the basement one is considered a cla
 ### Step 4 - App Notification
 This is a new step that was introduced in 2020. You need to send a notification to the app team to get your event listed on the PESU app. The format is as follows :
 ```
-To: chaitraraor@pes.edu, dean.studentaffairs@pes.edu, medhakoppam@gmail.com,rudranshklkrn@gmail.com 
+To: chaitraraor@pes.edu, dean.studentaffairs@pes.edu, medhakoppam@gmail.com,rudranshklkrn@gmail.com ,manjunath.mallapure@ayotta.com
 Subject: Requesting App Notification
 Contents:
 	A message about the event for the readers
