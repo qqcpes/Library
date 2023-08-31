@@ -31,6 +31,14 @@ If you are adding a completely new page , then go to the file name `_sidebar.md`
 
 The site is hosted on github pages. To deploy the site, push the changes to the `main` branch. It will automatically be deployed to github pages.
 You will need the git token to push to GitHUb, look up how to do that if you don't have one.
+```bash
+git add *
+git commit -m "COMMIT MESSAGE"
+git push
+// These are the commands you need to push to github
+```
+> Always `git pull` before you push or edit anything to avoid merge conflicts
+
 
 ### Step 5 - Marvel at your creation
 Tech literate or not, you have now added / edited a page on the QQC Library. Congratulations!
