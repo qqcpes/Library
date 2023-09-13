@@ -9,7 +9,7 @@ The mail should be of this format :
 
 ```
 To: dean.studentaffairs@pes.edu
-cc: medhakoppam@gmail.com, rudranshklkrn@gmail.com, ummepes@gmail.com, fyi.pes@gmail.com  
+cc: DSKDhruv@gmail.com, yashaswiap@gmail.com,shrithikreddy11122002@gmail.com, annasingh.pesu@gmail.com, fyi.pes@gmail.com  
 Subject: Approval to Conduct an Event: QQC 
 Body:
 Good Morning/Afternoon/Evening Sir,
@@ -61,7 +61,7 @@ Note : Ground floor seminar hall is hall 1, the basement one is considered a cla
 ### Step 4 - App Notification
 This is a new step that was introduced in 2020. You need to send a notification to the app team to get your event listed on the PESU app. The format is as follows :
 ```
-To: chaitraraor@pes.edu, dean.studentaffairs@pes.edu, medhakoppam@gmail.com,rudranshklkrn@gmail.com ,manjunath.mallapure@ayotta.com
+To: chaitraraor@pes.edu, dean.studentaffairs@pes.edu, DSKDhruv@gmail.com,yashaswiap@gmail.com,shrithikreddy11122002@gmail.com ,manjunath.mallapure@ayotta.com
 Subject: Requesting App Notification
 Contents:
 	A message about the event for the readers
@@ -78,9 +78,10 @@ media@pes.edu
 dean.studentaffairs@pes.edu
 coordinator.media@pes.edu
 chaitraraor@pes.edu
-rudranshklkrn@gmail.com 
-medhakoppam@gmail.com 
-ummepes@gmail.com 
+DSKDhruv@gmail.com, 
+yashaswiap@gmail.com,shrithikreddy11122002@gmail.com,
+annasingh.pesu@gmail.com, 
+fyi.pes@gmail.com   
 
 Additionally, a report adhering to the following format is to be Emailed to fyi.pes@gmail.com within 4 days of the event closure.
 ```
@@ -118,6 +119,7 @@ Photos:
 ### Step 6 - Reimbursements and prize money 
 Take a print-out of the following:
 
+- Letter to VC requesting for reimbursement(through VK sir)
 - Proposal Mail
 - VC’s Approval Mail
 - Report on the event with sample photos
