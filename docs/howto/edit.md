@@ -59,7 +59,7 @@ If you didn't understand a single word which was given above like another dumbas
 >- When you do the previous step, it will tell you where the Github repository was cloned into. See properly the address where it is stored and go to File Explorer and see if you can access it via the path mentioned. Sometimes you have to go to C drive and access it and not directly from Documents shortcut(it was like that for me)
 >-In Visual Studio install Markdown-All-in-One Extension(the link would have been given in a previous step or you can go to extensions in VS code and download from there)
 >-Next open the library folder in VS Code from wherever you have cloned the repository from. A new workspace should open. Once you do this you dont need to clone again and again. Directly you can open the library workspace and make your changes
->-Now to make changes, open the section where you want to change/edit stuff and do so. 
+>-Now to make changes, open the section where you want to change/edit stuff and do so. Save it once finished editing. 
 >-To upload to the website, open git bash
 >-Now see whether git bash is in the library directory. To see whether its there or not your command line should show something like ~/Documents/Library.
 >-If it does not type cd path of Library

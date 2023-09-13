@@ -119,7 +119,7 @@ Photos:
 ### Step 6 - Reimbursements and prize money 
 Take a print-out of the following:
 
-- Letter to VC requesting for reimbursement(through VK sir)
+- Letter to VC requesting for reimbursement(you can find the template in resources)
 - Proposal Mail
 - VC’s Approval Mail
 - Report on the event with sample photos
