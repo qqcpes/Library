@@ -73,11 +73,11 @@ Contents:
 ### Step 5 - Event Report
 Includes all relevant event details including participation, reach, winners, etc
 To be sent within 4 days of the event closure, as a word document, with photos attached separately to:
-operations@pes.edu
-media@pes.edu
-dean.studentaffairs@pes.edu
-coordinator.media@pes.edu
-chaitraraor@pes.edu
+operations@pes.edu,
+media@pes.edu,
+dean.studentaffairs@pes.edu,
+coordinator.media@pes.edu,
+chaitraraor@pes.edu,
 DSKDhruv@gmail.com, 
 yashaswiap@gmail.com,shrithikreddy11122002@gmail.com,
 annasingh.pesu@gmail.com, 
