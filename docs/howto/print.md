@@ -28,7 +28,7 @@ Team QQC
 ```
 Once you have sent the mail, wait for the printing press to reply that the posters have been printed. Once they do, go and collect it(This takes 1-2 days so plan in advance with your design team)
 
->If you dont know where the printin press is... :|
+>If you dont know where the printing press is... :|
 Go to the basement of Management Block(Some people call it Tech Park) 
 >Head towards the left side of the lift and you should see a room stacked with bundles of paper. You have now arrived at your destination. :)
 
