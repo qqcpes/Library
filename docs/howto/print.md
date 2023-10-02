@@ -12,7 +12,8 @@ Complex designs, backgrounds, gradients, etc. are not recommended. They do not t
 If you want a design go from the club, you need to give them a minimum of 2 days to get it done. If you want it done from an external source, you need to give them a minimum of 3-4 days. This is because they have other work to do as well. So make sure you plan ahead. (This method is free)
 
 Once the design is ready send a mail to VK sir along with the attached image. Make sure PES logo is there on the poster.
-NOTE - DO NOT SEND TO PRINTING PRESS. VK SIR WILL FORWARD THE MAIL HIMSELF
+NOTE - DO NOT SEND TO PRINTING PRESS. VK SIR WILL FORWARD THE MAIL HIMSELF.
+
 The mail should be of this format :
 
 ```
@@ -29,7 +30,9 @@ Team QQC
 Once you have sent the mail, wait for the printing press to reply that the posters have been printed. Once they do, go and collect it(This takes 1-2 days so plan in advance with your design team)
 
 >If you dont know where the printing press is... :|
-Go to the basement of Management Block(Some people call it Tech Park) 
+
+>Go to the basement of Management Block(Some people call it Tech Park) 
+
 >Head towards the left side of the lift and you should see a room stacked with bundles of paper. You have now arrived at your destination. :)
 
 
