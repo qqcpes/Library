@@ -12,4 +12,11 @@
 
 - **VC Reimbursement Letter Template**
     - <a href="./_media/documents/VC_Reimbursement.docx" download> Download (.docx)</a>
+
+- **Format for Request Letter to Chairperson for signing Declaration Forms**
+    - <a href="./_media/documents/declaration_request_chairperson.docx" download> Download (.docx)</a>
+
+- **Format for submitting list of students with Declaration Forms**
+    - <a href="./_media/documents/list_submission.docx" download> Download (.docx)</a>
+
     
