@@ -7,12 +7,14 @@ The following are the steps to be followed when representing the university at I
 
 - The invitation/ brochure of the fest (could be a printout from the website) must be attached.
 - A list of the students participating with details: Name, SRN, Department, Semester, Campus, Event/Competition
-- Student Declaration forms with a clear ‘no objection’ from the parents.
-> All of the above must be submitted to the Dean, Student Affairs - Dr. V Krishna - dean.studentaffairs@pes.edu 
+- Student Declaration forms with a clear ‘no objection’ from the parents must be signed by FAM and HOD with seal
+- Then attach the Chairperson Addressal form and the List of Students form(You can find these in the Docs section under Resources) along with the declaration forms per each department
+> All of the above must be submitted to the Office of the Dean, Student Affairs - Dr. V Krishna - dean.studentaffairs@pes.edu 
 
 #### Reimbursement
 
 Take a print-out of the following:
+- Reimbursal Request Letter to VC 
 - Proposal Mail
 - VC’s Approval Mail
 - Report on the event with sample photos
