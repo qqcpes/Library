@@ -88,7 +88,8 @@ dean.studentaffairs@pes.edu,
 coordinator.media@pes.edu,
 chaitraraor@pes.edu,
 DSKDhruv@gmail.com, 
-yashaswiap@gmail.com,shrithikreddy11122002@gmail.com,
+yashaswiap@gmail.com, 
+shrithikreddy11122002@gmail.com,
 annasingh.pesu@gmail.com, 
 fyi.pes@gmail.com   
 
