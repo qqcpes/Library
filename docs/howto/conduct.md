@@ -79,7 +79,8 @@ Contents:
 >The poster must be in **.png** format. 
 
 ### Step 5 - Event Report
-Includes all relevant event details including participation, reach, winners, etc
+Includes all relevant event details including participation, reach, winners, etc.
+
 To be sent within 4 days of the event closure, as a word document, with photos attached separately to:
 operations@pes.edu,
 media@pes.edu,
