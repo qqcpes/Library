@@ -83,12 +83,6 @@ yashaswiap@gmail.com,shrithikreddy11122002@gmail.com,
 annasingh.pesu@gmail.com, 
 fyi.pes@gmail.com   
 
-Additionally, a report adhering to the following format is to be Emailed to fyi.pes@gmail.com within 4 days of the event closure.
-```
-<Event Name>
-<Club Name>
-<Campus>
-
 Event Description:
 <Must include all relevant details like the date, the what, the audience reach, the participant reach, the speakers, etc.
 400 words minimum.>
