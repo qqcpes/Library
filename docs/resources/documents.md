@@ -19,4 +19,5 @@
 - **Format for submitting list of students with Declaration Forms**
     - <a href="./_media/documents/list_submission.docx" download> Download (.docx)</a>
 
-    
+- **Seminar Hall Request Letter**
+    - <a href="./_media/documents/Seminar Hall_Letter.docx" download> Download (.docx)</a>    

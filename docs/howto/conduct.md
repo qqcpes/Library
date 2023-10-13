@@ -56,7 +56,15 @@ The procedure is as follows :
 - Username : qqc@pes.edu 
 - Password : OTP system, you will get it in the qqc email
 
-Note : Ground floor seminar hall is hall 1, the basement one is considered a classroom, so ask the CSE office if you need that
+Note : Ground floor seminar hall is Seminar Hall 1 and so on in Qudify
+The basement one is considered a classroom, so ask the CSE office if you need that.
+
+After booking the hall on Qudify, Submit the following to the respective HOD under whom the seminar hall comes under:
+- Qudify Hall Booking  Mail
+- Event Proposal Mail
+- VC Approval Mail
+- Seminar Hall Letter(preferably attested by VK sir)
+
 
 ### Step 4 - App Notification
 This is a new step that was introduced in 2020. You need to send a notification to the app team to get your event listed on the PESU app. The format is as follows :
