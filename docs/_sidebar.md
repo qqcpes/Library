@@ -25,4 +25,5 @@
 
 - **Quiz Links**
   - [India Quiz (21 Aug '23)](/quiz_links/india_quiz.md)
+  - [Fresher's Quiz (19 Sep '23)](/quiz_links/Fresher's_Quiz.md)
 
