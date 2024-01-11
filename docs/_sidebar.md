@@ -26,4 +26,6 @@
 - **Quiz Links**
   - [India Quiz (21 Aug '23)](/quiz_links/india_quiz.md)
   - [Fresher's Quiz (19 Sep '23)](/quiz_links/Fresher's_Quiz.md)
+  - [Cricket Quiz (10 Oct '23)](/quiz_links/Cricket_Quiz.md)
+  - [Karnataka Quiz (7 Nov '23)](/quiz_links/Karnataka_Quiz.md)
 
