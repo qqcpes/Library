@@ -25,6 +25,7 @@
 
 - **Quiz Links**
   - [Showtime Quiz (16 Feb '23)](/quiz_links/Entertainment_Quiz.md)
+  - [Fresher's Quiz (23 March '23)](/quiz_links/Freshers_Quiz.md)
   - [India Quiz (21 Aug '23)](/quiz_links/india_quiz.md)
   - [Fresher's Quiz (19 Sep '23)](/quiz_links/Fresher's_Quiz.md)
   - [Cricket Quiz (10 Oct '23)](/quiz_links/Cricket_Quiz.md)
