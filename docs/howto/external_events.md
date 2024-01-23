@@ -3,7 +3,7 @@
 #### Approval
 
 The following are the steps to be followed when representing the university at Inter-University fests and competitions:
-- A request letter with details of the fest/ competition is to be drafted. The letter must include the likely expenses to be incurred with the complete details provided separately in a table.This needs the club faculty advisor's signature - so in our case VK's himself. Don't bother with your individual faculty advisor.
+- A request letter/mail with details of the fest/ competition is to be drafted. The letter must include the likely expenses to be incurred with the complete details provided separately in a table.This needs the club faculty advisor's signature - so in our case VK's himself. Don't bother with your individual faculty advisor.
 
 - The invitation/ brochure of the fest (could be a printout from the website) must be attached.
 - A list of the students participating with details: Name, SRN, Department, Semester, Campus, Event/Competition
