@@ -40,6 +40,6 @@ Once you have sent the mail, wait for the printing press to reply that the poste
 If you want it done from an external source, you can contact [this guy]() and he should get it done in 3-4 days.
 
 > If you want posters super quick (by lunch break by example), you'll just have to get it printed yourself. 
-The first shop to your right in Gully charges &#8377;20 for a glossy A4 print and &#8377;40 for a glossy A3 print (both of impressive quality).
+The first shop to your right in Sutta Gully charges &#8377;20 for a glossy A4 print and &#8377;40 for a glossy A3 print (both of impressive quality).
 
 
