@@ -76,6 +76,7 @@ Contents:
 	A Poster - 512x256 resolution 
 ```
 >Keep the dimensions in mind, any other dimensions will look out of place and odd.
+>Make sure that when designing the poster itself you set the dimensions to 512x256 rather than compressing it later for it to get approved.
 >The poster must be in **.png** format. 
 
 ### Step 5 - Event Report
