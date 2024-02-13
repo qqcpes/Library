@@ -9,7 +9,7 @@ The mail should be of this format :
 
 ```
 To: dean.studentaffairs@pes.edu
-cc: DSKDhruv@gmail.com, yashaswiap@gmail.com,shrithikreddy11122002@gmail.com, annasingh.pesu@gmail.com, fyi.pes@gmail.com  
+cc: rekha.ss@pes.edu, DSKDhruv@gmail.com, yashaswiap@gmail.com,shrithikreddy11122002@gmail.com, annasingh.pesu@gmail.com, teamfyi@pes.edu
 Subject: Approval to Conduct an Event: QQC 
 Body:
 Good Morning/Afternoon/Evening Sir,
@@ -20,8 +20,8 @@ We write this mail seeking approval to conduct an event. The details are as foll
     Event Details/ Brief Description:
     Budget with details:
     Faculty Advisor -
-        Name: Dr V Krishna
-        Designation: Dean,student affairs
+        Name: Prof Rekha SS
+        Designation: Professor, ECE Department
     Venue/ Platform: In-person
 Thanking you,
 <Your Name>
@@ -69,17 +69,38 @@ After booking the hall on Qudify, Submit the following to the respective HOD und
 ### Step 4 - App Notification
 This is a new step that was introduced in 2020. You need to send a notification to the app team to get your event listed on the PESU app. The format is as follows :
 ```
-To: chaitraraor@pes.edu, dean.studentaffairs@pes.edu, DSKDhruv@gmail.com,yashaswiap@gmail.com,shrithikreddy11122002@gmail.com ,manjunath.mallapure@ayotta.com
+To: support@pesuacademy.com, manjunath.mallapure@ayotta.com
+cc: dean.studentaffairs@pes.edu, rekha.ss@pes.edu, teamfyi@pes.edu, shrithikreddy11122002@gmail.com, dskdhruv@gmail.com, yashaswiap@gmail.com
 Subject: Requesting App Notification
 Contents:
 	A message about the event for the readers
 	A Poster - 512x256 resolution 
 ```
+>The email for app notification must be sent 3 days prior to the required date.
 >Keep the dimensions in mind, any other dimensions will look out of place and odd.
 >Make sure that when designing the poster itself you set the dimensions to 512x256 rather than compressing it later for it to get approved.
 >The poster must be in **.png** format. 
 
-### Step 5 - Event Report
+### Step 5 - Photographer for Event
+Pixels provides photographers for quizzes so you dont take some blurry and shaky photos in haste on your mobile phone. 
+
+Send this email atleast 3 days in advance.
+
+```
+To: pixels@pes.edu
+Subject: Request for photographer for event
+Body:
+To the person concerned,
+
+QQC is conducting <Event_Name> on <Date> at <Time> in <Venue> with prior approval from the Vice Chancellor and the Dean of Student Affairs.
+Hence we would like to request a photographer to take photos of the event for the club.
+
+Thanking you,
+<Name>
+President - QQC
+```
+
+### Step 6 - Event Report
 Includes all relevant event details including participation, reach, winners, etc.
 
 To be sent within 4 days of the event closure, as a word document, with photos attached separately to:
@@ -92,7 +113,7 @@ DSKDhruv@gmail.com,
 yashaswiap@gmail.com, 
 shrithikreddy11122002@gmail.com,
 annasingh.pesu@gmail.com, 
-fyi.pes@gmail.com   
+teamfyi@pes.edu   
 
 Event Description:
 <Must include all relevant details like the date, the what, the audience reach, the participant reach, the speakers, etc.
