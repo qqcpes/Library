@@ -22,5 +22,5 @@
 - **Seminar Hall Request Letter**
     - <a href="./_media/documents/Seminar Hall_Letter.docx" download> Download (.docx)</a>    
 
-- - **Expenditure Template**
+- **Expenditure Template**
     - <a href="./_media/documents/Expenditure_Template.docx" download> Download (.docx)</a>
