@@ -147,11 +147,14 @@ Photos:
 ### Step 6 - Reimbursements and prize money 
 Take a print-out of the following:
 
-- Reimbursment Request Letter to VC(you can find the template in docs section of resources)
+- Reimbursment Request Letter to VC
 - Proposal Mail
 - VC’s Approval Mail
 - Report on the event with sample photos
 - Details of expenses with names and amounts for prize winners and bank account details as well in a table format
+
+All the necessary templates can be found in the Documents section under Resources tab.
+
 > Make sure to sign all of the documents yourself and also get VK’s signature on them.
 
   Get these attested by VK and submit them to the Accounts Department. 
